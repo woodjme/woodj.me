@@ -1008,8 +1008,6 @@
                 line-height: 30px;
                 font-weight: 600;
                 a {
-                    font-style: italic;
-                    margin-left: 4px;
                     color: $main-color;
                 }
             }
@@ -1047,7 +1045,7 @@
     .mh-experience-deatils {
         .mh-work-item {
             margin-bottom: 30px;
-            padding: 20px 30px;
+            padding: 26px 30px;
             border-radius: 4px;
             @include box-shadow($shadows);
             &:hover {
